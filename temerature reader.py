@@ -1,6 +1,6 @@
 def temperature():
     average = 0
-    list_of_temps =[]
+    list_of_temps = []
     temp_to_list = input("please enter a temperature;\n")
     average += int(temp_to_list)
     list_of_temps.append(temp_to_list)
