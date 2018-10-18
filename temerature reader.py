@@ -10,7 +10,7 @@ def temperature():
             average += int(temp_to_list)
             print(average)
             list_of_temps.append(temp_to_list)
-    print("a non number was entered")
+    print("A non number was entered")
     print("\n")
     print("The maximum temperature you gave was:\n", max(list_of_temps))
     print("The minimum temperature you gave was:\n", min(list_of_temps))
