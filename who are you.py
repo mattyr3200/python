@@ -3,5 +3,5 @@ def greeting():
     if name == "":
         print("hello world")
     else:
-        print("hello,", name + ". it is good to meet you.")
+        print("hello,", name.capitalize() + ". it is good to meet you.")
 greeting()

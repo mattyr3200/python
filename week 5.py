@@ -5,5 +5,5 @@ def week5():
     elif name[:4].capitalize() == "Sir ":
         print("hello, Sir", name[4:].capitalize() + ". it is good to meet you.")
     else:
-        print("hello, Sir", name.capitalize() + ". it is good to meet you.")
+        print("hello, ", name.capitalize() + ". it is good to meet you.")
 week5()
