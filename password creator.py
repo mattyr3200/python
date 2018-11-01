@@ -1,9 +1,11 @@
 import string
 import random
+from time import sleep
 
 
 def password(size=random.randint(6, 12), chars=string.digits + string.punctuation + string.ascii_letters):
-    print("creating password...")
-    print(''.join(random.choice(chars) for _ in range(size)))
+    sleep(1)
+    return ''.join(random.choice(chars) for _ in range(size))
 
-password()
+print("creating password...")
+print (password(34, 'abc'))

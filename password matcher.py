@@ -5,7 +5,7 @@ def passwords():
     no_go_words.append(username)
     no_go_words.append(student_id)
     password = input("please enter your password:\n")
-    while (len(password) in range(6, 12)) and password not in no_go_words:
+    while (len(password) in range(6, 12)) and password in no_go_words:
         password = input("please enter your password:\n")
     else:
         print("passwords has been changed. \n")

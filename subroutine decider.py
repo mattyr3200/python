@@ -1,7 +1,12 @@
 def sub_name():
     sub = input("what subroutine would you like top go to: \n ")
-    to_go = sub + "()"
-    return to_go
+    #to_go = sub + "()"
+
+    if sub == "my_name":
+        my_name()
+    elif sub == "mathew":
+        mathew()
+    return sub
 
 
 def mathew():
@@ -11,4 +16,4 @@ def mathew():
 def my_name():
     print("help")
 
-sub_name()
+print(sub_name())
