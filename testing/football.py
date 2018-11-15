@@ -1,3 +1,9 @@
+"""this a football counter that is able to show who's winning in the leader board"""
+__author__ = " Mathew Reynolds"
+__email__ = "mattyr@talktalk.net"
+__date__ = "08-11-2018"
+
+
 def football_counter():
     wins = 0
     draws = 0
