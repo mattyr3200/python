@@ -2,7 +2,10 @@ import time
 import random
 import sys
 
-"""this a football counter that is able to show who's winning in the leader board"""
+"""
+    -this is week 6 work
+    -there is a subroutine selector
+"""
 __author__ = " Mathew Reynolds"
 __email__ = "mattyr@talktalk.net"
 __date__ = "08-11-2018"
@@ -10,13 +13,13 @@ __date__ = "08-11-2018"
 
 def task_selector():
     print("welcome to the task selector")
-    try:
-        selector = input("please input what task you would like:\n")
-        sub_to_go = selector + "()"
-        exec(sub_to_go)
-    except NameError:
-        print("sorry that wasn't valid.")
-        task_selector()
+    while 1:
+        try:
+            selector = input("please input what task you would like:\n")
+            sub_to_go = selector + "()"
+            exec(sub_to_go)
+        except NameError or TypeError:
+            print("sorry that wasn't valid.")
 
 
 def task_1():

@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1680f5c5-ee45-4285-9ad9-9d924d5ae05b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testing/password cracker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week 6.1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary converter.py" afterPath="$PROJECT_DIR$/binary converter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/password_corecter.py" afterPath="$PROJECT_DIR$/password_corecter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testing/football.py" afterPath="$PROJECT_DIR$/testing/football.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testing/password cracker.py" afterPath="$PROJECT_DIR$/testing/password cracker.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 6.1.py" afterPath="$PROJECT_DIR$/week 6.1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,14 +30,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="week 6.1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="week 6.1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week 6.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+            <state relative-caret-position="119">
+              <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="password cracker.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testing/password cracker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="job spreader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/job spreader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,18 +103,19 @@
         <option value="$PROJECT_DIR$/testing/Student.py" />
         <option value="$PROJECT_DIR$/temperature conversion table.py" />
         <option value="$PROJECT_DIR$/password_corecter.py" />
-        <option value="$PROJECT_DIR$/testing/password cracker.py" />
         <option value="$PROJECT_DIR$/testing/football.py" />
         <option value="$PROJECT_DIR$/binary converter.py" />
         <option value="$PROJECT_DIR$/week_6_task_1.py" />
+        <option value="$PROJECT_DIR$/testing/password cracker.py" />
         <option value="$PROJECT_DIR$/week 6.1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1407" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -324,10 +345,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.week 6.1" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in week 6.1.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python.binary converter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.football" />
-        <item index="4" class="java.lang.String" itemvalue="Python.password cracker" />
+        <item index="1" class="java.lang.String" itemvalue="Python.password cracker" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in week 6.1.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.binary converter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.football" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542033193910</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="my work">
+      <created>1542304776046</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1542304776046</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -467,13 +495,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18388106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29375482" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4947146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3244397" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -502,13 +530,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practical1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sweet_counter_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -707,24 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/password matcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/password_corecter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testing/password cracker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -841,12 +848,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/password matcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week 6.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="82" column="20" lean-forward="false" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        <state relative-caret-position="119">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job spreader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/password cracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

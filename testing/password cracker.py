@@ -1,6 +1,6 @@
 import string
 import random
-password = "J1!"
+password = "Strek123!"
 already_done = []
 
 
@@ -8,11 +8,12 @@ def logic_logarithm():
     cracker = ""
     while 1:
         if cracker != password:
-            size = 3
+            size = 9
             chars = string.digits + string.punctuation + string.ascii_letters
             cracker = ''.join(random.choice(chars) for _ in range(size))
             if cracker not in already_done:
                 already_done.append(cracker)
+                print(already_done)
         else:
             break
     print("your password is:\n", cracker)

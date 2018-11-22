@@ -10,7 +10,7 @@ def football_counter():
     losses = 0
     points = 0
     team_name = input("what is the team name? \n")
-    for x in range(0, 5):
+    for x in range(5):
         while 1:
             try:
                 g_scored = int(input("goal scored in match {0}:\n".format(x + 1)))
