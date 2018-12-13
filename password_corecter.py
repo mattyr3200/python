@@ -4,9 +4,9 @@ import re
 
 def validate():
     while True:
-        password = input("Enter a password: ")
+        password = input("Enter a password: \n")
         if len(password) not in range(6, 12):
-            print("Make sure your password is at least 8 and less than 12 letters")
+            print("Make sure your password is at least 6 and less than 12 letters")
         elif re.search('[0-9]', password) is None:
             print("Make sure your password has a number in it")
         elif re.search('[A-Z]', password) is None:

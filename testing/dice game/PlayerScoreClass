@@ -1,0 +1,7 @@
+class PlayerScore:
+    def __init__(self, name, score):
+        self.name = name
+        self.score = score
+
+    def name(self):
+        return self.name + " has scored " + self.score
